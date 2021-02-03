@@ -22,6 +22,9 @@ public class PersonController {
 		this.personService = personService;
 	}
 
+	/*
+	* test
+	*/
 	@RequestMapping("person/random")
 	@ResponseBody
 	public Person randomPerson() {
