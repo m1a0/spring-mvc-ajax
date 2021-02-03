@@ -24,6 +24,7 @@ public class PersonController {
 
 	/*
 	* test
+	* test 2
 	*/
 	@RequestMapping("person/random")
 	@ResponseBody
